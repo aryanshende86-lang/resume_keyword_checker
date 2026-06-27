@@ -33,10 +33,10 @@ In this test case, I intentionally renamed `resume.txt` to see how the script re
 
 ##  Installation & Setup
 
-1. **Clone the Project Repository**
+ **Clone the Project Repository**
    
-   git clone <your-github-repo-link>
-   cd <your-repo-folder-name>
+   git clone <>
+   cd <resume_keyword_checker>
 
 ## Establish Environment Source Files
 Place your evaluation files directly in the root project folder alongside your script:
