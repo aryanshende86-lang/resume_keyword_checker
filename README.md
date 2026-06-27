@@ -35,7 +35,7 @@ In this test case, I intentionally renamed `resume.txt` to see how the script re
 
  **Clone the Project Repository**
    
-   git clone <>
+   git clone <https://github.com/aryanshende86-lang/resume_keyword_checker.git>
    cd <resume_keyword_checker>
 
 ## Establish Environment Source Files
